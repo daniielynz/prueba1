@@ -13,6 +13,7 @@ class ClaseAnidada {
 	public void verPorConsola () {
 		ClaseAnidada ej = new ClaseAnidada();
 		ej.entrada(); 
-		System.out.println("Llamo a Salida: " + ej.salida(10) ); 
+		System.out.println("Llamo a Salida: " + ej.salida(10) );
+		System.out.println("hola");
 	}
 }
