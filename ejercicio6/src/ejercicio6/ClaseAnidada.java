@@ -14,6 +14,6 @@ class ClaseAnidada {
 		ClaseAnidada ej = new ClaseAnidada();
 		ej.entrada(); 
 		System.out.println("Llamo a Salida: " + ej.salida(10) );
-		System.out.println("juan magan");
+		System.out.println("juan magan aksdakdsnmakd");
 	}
 }
